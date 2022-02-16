@@ -46,4 +46,8 @@ li a:hover {
 </head>
 <body>
 
-
+<nav>
+  <li><a class="active" href="index.html">Home</a></li>
+  <li><a href="page2.html">Page2</a></li>
+  <li><a href="designs.html">Digital Portfolio</a></li>
+</nav>
